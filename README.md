@@ -14,4 +14,4 @@ DISCLAIMERS
 ===========  
 ⚠️  **Make sure that you've backed up all your files before running this script**, just in case (it would suck to have hundreds of hours of archival research wiped out due to a silly computer error).
 
-⚠️  **Only run this script in the directory you are storing files you want the script to interact with**. This script may enter and edit *any* file within a directory contained within the directory it is currently running in. Make sure that you are not storing anything in the current directory that you do not want to be tampered with.
+⚠️  **Do not run this script in a directory that contains files unrelated to your research**. This script may enter and edit *any* file within a directory contained within the directory it is currently running in. Make sure that you are not storing anything in the current directory that you do not want to the script to interact with.
