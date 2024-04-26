@@ -9,7 +9,7 @@ The script works like this. First it goes through each directory within the dire
 ## How to use it
 The script works like this.
 * The main script can be found in [convert.zsh](./convert.zsh).
-* There is also the [cleanup.zsh](./cleanup.zsh) script which I used to clean up excess PDFs during the cleaning process - that might come in handy.
+* There is also the [cleanup.zsh](./cleanup.zsh) script which I used to clean up excess PDFs when I was testing the script -- might come in handy.
 * This script has two dependencies: [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH), and [ImageMagick](https://imagemagick.org/) -- both must be installed on your computer for the script to work.
 
 DISCLAIMERS
